@@ -36,6 +36,26 @@
 
 .content p {
   font-size: 25px;
-  padding: 50px; 
+  padding: 50px;
 }
 
+/* footer style */
+
+.footer_menu {
+  display: flow-root;
+  background: #2f01a2;
+  margin-bottom: 50px;
+}
+
+.footer_menu .nav_item {
+  float: left;
+  margin: 5px;
+  list-style: none;
+  padding: 35px;
+  display: block;
+}
+.footer_menu .nav_item a {
+  color: rgb(91, 246, 7);
+  font-size: 25px;
+  text-decoration: none;
+}
