@@ -1,0 +1,19 @@
+.main_menu {
+  border: 2px;
+  border-color: red;
+  display: flow-root;
+  background: #43ffe0;
+}
+
+.main_menu .nav_item {
+  float: left;
+  margin: 5px;
+  list-style: none;
+  padding: 35px;
+  display: block;
+}
+.main_menu .nav_item a {
+  color: red;
+  font-size: 25px;
+  text-decoration: none;
+}
