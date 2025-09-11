@@ -1,8 +1,8 @@
 .main_menu {
   border: 2px;
-  border-color: red;
+  border-color: #0c0808;
   display: flow-root;
-  background: #43ffe0;
+  background: #ebdcdc;
 }
 
 .main_menu .nav_item {
@@ -13,8 +13,8 @@
   display: block;
 }
 .main_menu .nav_item a {
-  color: red;
-  font-size: 25px;
+  color: #030202;
+  font-size: 17px;
   text-decoration: none;
 }
 
@@ -63,6 +63,7 @@
 
 
 
+. 
 
 
 
